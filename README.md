@@ -2,8 +2,6 @@
 
 This repo contains a set of RL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern RL libraries such as Stable Baselines. Detailed analysis and comparisons are provided inline with the code.
 
-> This project uses `uv` as the package/environment manager. Install it from [here](https://docs.astral.sh/uv/getting-started/installation/).
-
 ## Algorithms Implemented
 ### Tabular RL
 - [ ] Multi-armed Bandits
@@ -37,7 +35,9 @@ This repo contains a set of RL algorithms implemented from first principles. The
 - [ ] MADDPG: Multi-agent DDPG
 
 
-## Installation
+## Setup
+> This project uses `uv` as the package/environment manager. Install it from [here](https://docs.astral.sh/uv/getting-started/installation/).
+
 ```bash
 git clone https://github.com/nveshaan/rl_scratch.git
 cd rl_scratch
@@ -49,3 +49,7 @@ To update the cloned repo,
 git pull
 uv sync
 ```
+
+## Acknowledgements
+
+Part of the implementation is inspired from https://github.com/NithinVS2k4/RLFromScratch.
