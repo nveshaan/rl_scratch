@@ -1,6 +1,6 @@
 # RL Algorithms
 
-This repo contains a set of RL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern RL libraries such as Stable Baselines. Detailed analysis and comparisons are provided inline with the code.
+This repo contains a set of RL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern RL libraries such as Stable Baselines. Detailed analysis and comparisons are provided along with the code.
 
 ## Algorithms Implemented
 ### Tabular RL
@@ -30,6 +30,7 @@ This repo contains a set of RL algorithms implemented from first principles. The
 
 **Model-based**
 - [ ] World Models
+- [ ] Latent State Models
 
 ### Multi-agent RL
 - [ ] MADDPG: Multi-agent DDPG
@@ -52,4 +53,4 @@ uv sync
 
 ## Acknowledgements
 
-Part of the implementation is inspired from https://github.com/NithinVS2k4/RLFromScratch.
+Part of the implementation is inspired from https://youtu.be/VnpRp7ZglfA?si=SADs_y1wqKe6rInf.
