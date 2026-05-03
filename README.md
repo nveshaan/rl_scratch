@@ -40,17 +40,9 @@ This repo contains a set of RL algorithms implemented from first principles. The
 
 
 ## Setup
-> This project uses `uv` as the package/environment manager. Install it from [here](https://docs.astral.sh/uv/getting-started/installation/).
-
 ```bash
 git clone https://github.com/nveshaan/rl_scratch.git
 cd rl_scratch
-uv sync
-```
-
-To update the cloned repo,
-```bash
-git pull
 uv sync
 ```
 
