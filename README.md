@@ -5,8 +5,7 @@ This repo contains a set of RL algorithms implemented from first principles. The
 > For better experience with notebooks, it is recommended to view the repository at
 > https://nbviewer.org/github/nveshaan/rl_scratch/tree/main/
 
-## Algorithms Implemented
-### Tabular RL
+## Tabular RL
 - [ ] Multi-armed Bandits
 - [ ] Value Iteration
 - [ ] Policy Iteration
@@ -14,7 +13,7 @@ This repo contains a set of RL algorithms implemented from first principles. The
 - [x] SARSA
 - [x] Q-Learning
 
-### Deep RL
+## Deep RL
 **Model-free**
 
 *Value Function*
@@ -35,17 +34,5 @@ This repo contains a set of RL algorithms implemented from first principles. The
 - [ ] World Models
 - [ ] Latent State Models
 
-### Multi-agent RL
+## Multi-agent RL
 - [ ] MADDPG: Multi-agent DDPG
-
-
-## Setup
-```bash
-git clone https://github.com/nveshaan/rl_scratch.git
-cd rl_scratch
-uv sync
-```
-
-## Acknowledgements
-
-Part of the implementation is inspired from https://youtu.be/VnpRp7ZglfA?si=SADs_y1wqKe6rInf.
