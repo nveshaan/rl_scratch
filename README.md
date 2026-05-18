@@ -3,7 +3,7 @@
 This repo contains a set of RL algorithms implemented from first principles. These notebooks help to understand the inner workings of modern RL libraries such as Stable Baselines. Detailed analysis and comparisons are provided along with the code.
 
 > For a better experience with notebooks, it is recommended to view the repository at
-> https://nbviewer.org/github/nveshaan/rl_scratch/tree/main/
+> https://nbviewer.org/github/nveshaan/reinforcement_learning/tree/main/
 
 ## Tabular RL
 - [ ] Multi-armed Bandits
